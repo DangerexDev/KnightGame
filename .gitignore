@@ -41,6 +41,9 @@
 *.VC.db
 *.VC.opendb
 
+# GIF files
+*.gif
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
@@ -72,6 +75,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-# GIF exports
-*/gif/*
