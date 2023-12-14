@@ -33,6 +33,10 @@
 			"Name": "GifRecorder",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e8a4a978888e409b948defd6a95779c0"
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
 		}
 	]
 }
